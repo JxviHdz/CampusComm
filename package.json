@@ -1,0 +1,54 @@
+{
+  "name": "market",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fontsource/roboto": "^4.2.1",
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.57",
+    "@material-ui/styles": "^4.11.3",
+    "@rpldy/upload-button": "^0.11.3",
+    "@rpldy/upload-preview": "^0.11.3",
+    "@rpldy/uploady": "^0.11.3",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.7.2",
+    "caniuse-lite": "^1.0.30001680",
+    "cross-env": "^5.2.1",
+    "firebase": "^8.2.9",
+    "firebase-tools": "^9.5.0",
+    "fontsource-roboto": "^4.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-firebase": "^2.2.8",
+    "react-firebase-hooks": "^2.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.3",
+    "web-vitals": "^1.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
